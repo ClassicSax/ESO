@@ -11,12 +11,12 @@ class Airtable {
         {
             return array(
                 'fields' => array(
-                    'Name' => 'Josh',
-                    'Class' => 'Templar',
-                    'Level' => 50,
-                    'Champion Points' => 256,
-                    'Faction' => 'Ebonheart Pact',
-                    "Race" => 'Argonian'
+                    'Name' => 'Amanda',
+                    'Class' => 'Badass',
+                    'Level' => 'Over 9000',
+                    'Champion Points' => 'Well over 90000',
+                    'Faction' => 'Whatever she wants!',
+                    "Race" => 'YASSSSSSSS QUEEEEEEENNNNNN'
                 )
             );
         }
